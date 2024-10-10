@@ -101,5 +101,5 @@ def delete_todo(_id:int):
 # print(res)
 # res = update_todo(1,'Learn PHP')
 # res = delete_todo(14)
-# res = create_to_do("Learn AngularJS")
-# print(res)
+res = create_to_do("Learn HTML, CSS")
+print(res)
